@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/CodeXX-Jekyll/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: acedrew
-github_username:  acedrew
+twitter_username: summerkohlhorst
+github_username:  skohlhorst
 
 # Build settings
 markdown: kramdown
